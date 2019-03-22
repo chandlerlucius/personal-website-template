@@ -1,4 +1,4 @@
-# personal website
+# personal website template
 Some simple, but confusing code I wrote a while ago to showcase a website for myself.
 
 It uses php to load data and build html based on the values supplied to it by an informational txt file.
