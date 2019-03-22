@@ -1,7 +1,7 @@
 # personal website
 Some simple, but confusing code I wrote a while ago to showcase a website for myself.
 
-It uses php to load data and build html based on the values supplied to it by the txt/info.txt file.
+It uses php to load data and build html based on the values supplied to it by an informational txt file.
 
 Its in a template fasion, the steps below explain how to use it.
 
