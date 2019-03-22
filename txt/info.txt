@@ -1,0 +1,102 @@
+Headers
+About ; Show
+Career Focus ; Hide
+Education ; Hide
+Awards and Affiliations ; Hide
+Qualifications ; Show
+Employment ; Show
+Projects ; Show
+Contact ; Show
+
+About
+Chandler Lucius
+img/profile.jpg
+http://www.linkedin.com/in/chandlerlucius
+Name ; Chandler Lucius
+City ; Austin, TX
+Age ; 25
+
+Career Focus
+Software Developer searching for a Java based back end role, but open to front end technology roles utilizing HTML, CSS, JavaScript, and PHP.  
+
+Education
+Baylor University
+B.S. Computer and Electrical Engineering
+Minors (2): Computer Science, Math
+Graduated: May 2012
+
+Awards and Affiliations
+Fundamentals of Engineering Exam ; Passed - Spring 2013
+IEEE Member ; Joined - Fall 2009
+Eagle Scout ; Attained - Spring 2008
+
+Projects
+img/logo.png ; Website - Personal Resume ; I designed this website to be an online resume for myself. It showcases my skills and provides other information about me. ; www.chandlerlucius.com
+
+Qualifications
+--
+Programming Languages
+Java ; 70% ; Proficient
+SQL ; 60% ; Competent
+JavaScript ; 50% ; Familiar
+PHP ; 50% ; Familiar
+--
+Web Development
+HTML ; 70% ; Proficient
+CSS ; 70% ; Proficient
+JDBC ; 70% ; Proficient
+JSP ; 60% ; Competent
+--
+Development Environments
+Eclipse ; 80% ; Proficient
+Netbeans ; 70% ; Proficient
+SQL Dev. ; 60% ; Competent
+VMWare ; 40% ; Familiar
+--
+Break
+--
+Database Environments
+Oracle SQL DB ; 70% ; Proficient
+MySQL ; 50% ; Familiar
+Oracle DB2 ; 40% ; Familiar
+--
+Methodologies
+Waterfall ; 80% ; Proficient
+Agile ; 70% ; Proficient
+Scrum ; 50% ; Familiar
+--
+Extra
+--
+Servers
+Apache Tomcat ; 70% ; Proficient
+Apache HTTP Server ; 60% ; Competent
+Websphere ; 40% ; Familiar
+Jetty ; 40% ; Familiar
+--
+Operating Systems
+Windows ; 80% ; Proficient
+Mac OS X ; 70% ; Proficient
+RHEL ; 60% ; Competent
+Ubuntu ; 50% ; Familiar
+
+#For the Employment section:
+# 1. Google maps place id for the company headquarters (https://developers.google.com/places/place-id)
+# 2. Google maps place id for the local company office (https://developers.google.com/places/place-id)
+# 3. Job Title
+# 4. City Worked
+# 5. Date Begun
+# 6. Date Ended (or keyword now)
+# 7. List of Technologies Used
+# 8. List of Methodologies Used
+# 9. List of Products Used
+# 10.Job Description
+# 11.Company Name
+
+Employment
+ChIJh8I9RjNLW4YRkCiIT_PmTp0 ; ChIJh8I9RjNLW4YRkCiIT_PmTp0 ; Software Engineer ; Austin, TX ; 2016-01-28 : now ; Technologies: Java ; Methodologies: ; Products: Netbeans : Git ; OS: Mac OSX : Windows ; Coming soon... ; Prelude Dynamics
+Break
+ChIJl7EOTIVgmUcRo8snIbZT9xE ; ChIJk_Qc34ZKW4YRdQVa0NC8VJU ; Software Developer ; Austin, TX ; 2014-09-15 : 2016-01-06 ; Technologies: Java, HTML, CSS, SQL ; Methodologies: Waterfall, Scrum ; Products: Eclipse : Mac Terminal : Linux Commands : SVN : VMWare ; OS: Mac OSX : Linux : Windows ; Employed on a team responsible for the migration of certain TxDMV systems from a legacy Mainframe environment to a Java web based environment. Worked on HTML/CSS development to style certain front facing aspects of TxDMV systems and on Java/JDBC development to help form a backend to assist with jobs that run in the batch/reporting environment. Designed and developed an application in Java that could connect to an SFTP or FTPS server, extract files from the server, parse the extracted files, validate data on the files, and upload changes to the files as well as create log files on the server. Was in charge of design and development for all batch printing related processes including titles, renewals, reports, and other TxDMV documents. Used CUPS (Common Unix Printing System) and the Java library Cups4j for printing development. ; innoWake
+Break
+ChIJT2-SIDoMZ0gRC-TuNMtu9fo ; ChIJyQz78dfSwoARLwZbcljr_7Y ; Java Developer ; Norwalk, CA ; 2013-09-01 : 2014-08-01 ; Technologies: Java, JSP, SQL, HTML, XML ; Methodologies: Waterfall ; Products: Eclipse : SQL Dev. : LiveCycle : Visio ; OS: Windows ; Assisted with designing, analyzing, and developing of an improved Welfare system for LA County and the State of California. Worked as a member of the Correspondence team on the project, doing any Correspondence or Forms related framework, design, and implementation. This included designing interactive PDF forms, updating a Struts Framework to be compliant with a Spring Framework, modernizing a user interface with JSP, and creating scripts to store valid form information in a database. Used products such as Microsoft Visio for flow design, Adobe LiveCycle for form implementation, Axure for HTML mock up pages, Eclipse for Java/JSP/HTML development and SQL Developer for writing database queries and scripts. The system is called the LRS (LEADER Replacement System). ; Accenture
+Break
+ChIJ4TjleXMt3YARvUzpUljGZMA ; ChIJ4TjleXMt3YARvUzpUljGZMA ; Software Engineer ; Cerritos, CA ; 2012-06-01 : 2013-09-01 ; Technologies: Java, JSP, SQL, Flex ; Methodologies: Agile ; Products: Netbeans : SQL Dev. : WinCVS ; OS: Windows ; Worked with a team on the continued development of the loan processing system for SunWest Mortgage Company. Developed a web application to show users loans and loan information. The application was comprised of rows of data containing data on the loan, such as loan number, loan officer, loan dates, etc. as well as interactive buttons to edit info on the loan. The web application involved data grids, modal popup windows, charts, and animations which allowed the user to view and edit information that was kept in the database. Integrated multiple Java servlets that constituted automated emailing, database retrieving/updating, and system login processing. ; Sun West Mortgage Company
