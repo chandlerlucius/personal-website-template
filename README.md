@@ -16,10 +16,10 @@ Steps:
 8. Deploy code and start servlet container
 
 Tech Stack:
-HTML5
-CSS3
-PHP
-JS
+* HTML5
+* CSS3
+* PHP
+* JS
 
-Live Example: 
+Live Example:  
 www.chandlerlucius.com
