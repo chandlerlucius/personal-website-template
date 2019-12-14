@@ -37,8 +37,8 @@ Qualifications
 --
 Programming Languages
 Java ; 70% ; Proficient
-JavaScript ; 50% ; Familiar
 Bash ; 50% ; Familiar
+JavaScript ; 50% ; Familiar
 --
 Web Development
 HTML ; 70% ; Proficient
@@ -47,7 +47,7 @@ Spring ; 50% ; Familiar
 --
 Dev. Environments
 Netbeans ; 80% ; Proficient
-Eclipse ; 70% ; Proficient
+VS Code ; 70% ; Proficient
 Intelij ; 50% ; Familiar
 --
 Break
@@ -57,17 +57,17 @@ Mongo DB ; 60% ; Proficient
 Oracle SQL ; 50% ; Familiar
 MySQL ; 50% ; Familiar
 --
-Methodologies
-Waterfall ; 80% ; Proficient
-Agile ; 70% ; Proficient
-Scrum ; 50% ; Familiar
---
-Extra
---
 Servers
 Tomcat ; 70% ; Proficient
 Nginx ; 60% ; Competent
 Undertow ; 40% ; Familiar
+--
+Extra
+--
+Methodologies
+Waterfall ; 80% ; Proficient
+Agile ; 70% ; Proficient
+Scrum ; 50% ; Familiar
 --
 Operating Systems
 Windows ; 80% ; Proficient
