@@ -692,6 +692,7 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
 	overflow: hidden;
 	top: 0;
 	left: 0;
+	width: 100%;
 }
 
 .figure img {
@@ -792,7 +793,6 @@ input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
 
 .figure .info {
 	border: 1px #000 solid;
-	height: 100%;
 }
 
 .figure .info:hover {
