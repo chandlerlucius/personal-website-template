@@ -2,18 +2,30 @@
 <html>
 	<head>
 		<?php include("./php/info.php"); ?>
-		<title><?php echo getName() ?></title>
+		<title>Chandler Lucius</title>
 		<meta charset="UTF-8">
-		<meta name="author" content="<?php echo getName() ?>">
-		<meta name="title" content="Resume for <?php echo getName() ?>">
-		<meta name="description" content="Interactive Resume for <?php echo getName() ?>">
+		<meta name="author" content="Chandler Lucius">
+		<meta name="title" content="Resume for Chandler Lucius">
+		<meta name="description" content="Interactive Resume for Chandler Lucius">
+		<link rel="manifest" href="manifest.webmanifest">
 		<link rel="shortcut icon" href="img/favicon.ico" />
 		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<link rel="stylesheet" type="text/css" href="font/font-awesome-4.3.0/css/font-awesome.min.css">
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Quicksand">
 
-		<script type="text/javascript" src="js/jquery-2.1.3.min.js"></script>
-		<script type="text/javascript" src="js/main.js"></script>
-		<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA9K9aOfMnzuUnwK-C5dbqs2tRIU0Cm6F4&libraries=places&callback=initialize" async defer></script>
+		<script src="js/jquery-2.1.3.min.js" type="text/javascript"></script>
+		<script src="js/main.js" type="text/javascript"></script>
+		<script src="https://maps.googleapis.com/maps/api/js?libraries=places&callback=initialize&key=AIzaSyCXKEzorYAvStnbrGtHq_rwjYaRXozf7To" async defer></script>
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+		
+		  ga('create', 'UA-88933858-1', 'auto');
+		  ga('send', 'pageview');
+		
+		</script>
 		<?php echo getGoogleMapScript() ?>
 	</head>
 	<body>
@@ -44,12 +56,12 @@
 		</div>
 		<div id="title-page" class="title-page">
 			<div class="title absolute-center">
-				<h1><?php echo getName() ?></h1>
+				<h1>Chandler Lucius</h1>
 				<hr>
-				<h3>Website and Resume</h3>
+				<h3>Software Developer</h3>
 			</div>
 			<a class="link arrow-down absolute-horizontal-center" href="#about">
-				<p>▼</p>
+				<p class="fa fa-chevron-down"></p>
 			</a>
 			<div class="overlay"></div>
 		</div>
@@ -65,7 +77,28 @@
 			</div>
 			<?php echo getQualifications(); ?>
 			<?php echo getEmployment(); ?>
-			<?php echo getProjects(); ?>
+			<div id="projects" class="resume-child-odd">
+				<h1>Projects</h1>
+				<hr class="split">
+		        <div class="flex">
+	                <div class="figure fade">
+						<img src="img/logo-white-archer-circle.png" alt="odysi-logo"/>
+						<div class="description">
+							<h2>Odysi</h2>
+							<p>Plan, track, and journal your favorite adventures</p>
+							<a href="https://www.myodysi.com/" class="info" target="_blank">View Site</a>
+						</div>
+	                </div>
+	                <div class="figure fade">
+						<img src="img/logo-light.svg" alt="odysi-logo"/>
+						<div class="description">
+							<h2>Linux Dashboard</h2>
+							<p>Simple, fast, server analytics.</p>
+							<a href="https://www.linuxdashboard.com:8443" class="info" target="_blank">View Site</a>
+						</div>
+	                </div>
+		        </div>
+			</div>
 			<div id="contact" class="resume-child-even">
 				<h1>Contact</h1>
 				<hr class="split">
@@ -110,7 +143,7 @@
 					<div class="flex-child">
 						<h2>Connect With Me</h2>
 						<br>
-						<form class="social-form" action="<?php echo getLinkedInUrl() ?>" target="_blank">
+						<form class="social-form" action="http://www.linkedin.com/in/chandlerlucius" target="_blank">
 							<input class="social-button linkedin-button" type="submit" value="LinkedIn"/>
 						</form>
 						<br><br>
@@ -119,15 +152,20 @@
 						<h4>forward to hearing from you!</h4>
 						<br><br>
 						<h4>Click below for a printable version of my resume.</h4>
-						<a class="button button-link" href="txt/resume.pdf">PDF</a>
+						<a class="button button-link" href="txt/resume.pdf" target="_blank">PDF</a>
+						<!--<br>-->
+						<!--<form class="pdf-form" action="./php/Chandler-Lucius_Java-Developer.php" method="post" target="_blank">-->
+						<!--	<label class="button" for="pdf-resume">PDF (Experimental)</label>-->
+						<!--	<input id="pdf-resume" type="submit"/>-->
+						<!--</form>-->
 					</div>
 				</div>				
 			</div>
 			<div id="info" class="info">
 			<br>
-			<img src="img/logo.png" alt="logo">
+			<img src="img/CL-Logo.png" alt="chandler-lucius-logo">
 				<br>
-				<p><?php echo getName() ?></p>
+				<p>Chandler Lucius</p>
 				<br>
 				<div id="nav-menu">
 					<a class="link menu-link" href="#about">About</a>
@@ -136,10 +174,13 @@
 					<a class="link menu-link" href="#projects">Projects</a>
 					<a class="link menu-link" href="#contact">Contact</a>
 				</div>
-				<p>© 2019 <?php echo getName() ?>. Software Developer</p>
-				<p>HTML5 | CSS3 | JS | PHP</p>
+				<p>© 2019 Chandler Lucius. Software Developer</p>
+				<p>Java | HTML | CSS | JS | PHP | SQL</p>
 			</div>
 			<br>
+			<!-- <a class="link arrow-down" href="#title-page"> -->
+				<!-- <p class="fa fa-chevron-up"></p> -->
+			<!-- </a> -->
 		</div>
 	</body>
 </html>
