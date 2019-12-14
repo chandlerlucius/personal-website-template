@@ -14,7 +14,7 @@ img/profile.jpg
 http://www.linkedin.com/in/chandlerlucius
 Name ; Chandler Lucius
 City ; Austin, TX
-Age ; 25
+Age ; 29
 
 Career Focus
 Software Developer searching for a Java based back end role, but open to front end technology roles utilizing HTML, CSS, JavaScript, and PHP.  
@@ -37,28 +37,25 @@ Qualifications
 --
 Programming Languages
 Java ; 70% ; Proficient
-SQL ; 60% ; Competent
 JavaScript ; 50% ; Familiar
-PHP ; 50% ; Familiar
+Bash ; 50% ; Familiar
 --
 Web Development
 HTML ; 70% ; Proficient
 CSS ; 70% ; Proficient
-JDBC ; 70% ; Proficient
-JSP ; 60% ; Competent
+Spring ; 50% ; Familiar
 --
-Development Environments
-Eclipse ; 80% ; Proficient
-Netbeans ; 70% ; Proficient
-SQL Dev. ; 60% ; Competent
-VMWare ; 40% ; Familiar
+Dev. Environments
+Netbeans ; 80% ; Proficient
+Eclipse ; 70% ; Proficient
+Intelij ; 50% ; Familiar
 --
 Break
 --
 Database Environments
-Oracle SQL DB ; 70% ; Proficient
+Mongo DB ; 60% ; Proficient
+Oracle SQL ; 50% ; Familiar
 MySQL ; 50% ; Familiar
-Oracle DB2 ; 40% ; Familiar
 --
 Methodologies
 Waterfall ; 80% ; Proficient
@@ -68,16 +65,14 @@ Scrum ; 50% ; Familiar
 Extra
 --
 Servers
-Apache Tomcat ; 70% ; Proficient
-Apache HTTP Server ; 60% ; Competent
-Websphere ; 40% ; Familiar
-Jetty ; 40% ; Familiar
+Tomcat ; 70% ; Proficient
+Nginx ; 60% ; Competent
+Undertow ; 40% ; Familiar
 --
 Operating Systems
 Windows ; 80% ; Proficient
-Mac OS X ; 70% ; Proficient
-RHEL ; 60% ; Competent
-Ubuntu ; 50% ; Familiar
+Linux ; 70% ; Proficient
+Mac OSX ; 60% ; Competent
 
 #For the Employment section:
 # 1. Google maps place id for the company headquarters (https://developers.google.com/places/place-id)
@@ -93,9 +88,9 @@ Ubuntu ; 50% ; Familiar
 # 11.Company Name
 
 Employment
-ChIJh8I9RjNLW4YRkCiIT_PmTp0 ; ChIJh8I9RjNLW4YRkCiIT_PmTp0 ; Software Engineer ; Austin, TX ; 2016-01-28 : now ; Technologies: Java ; Methodologies: ; Products: Netbeans : Git ; OS: Mac OSX : Windows ; Coming soon... ; Prelude Dynamics
+ChIJh8I9RjNLW4YRkCiIT_PmTp0 ; ChIJh8I9RjNLW4YRkCiIT_PmTp0 ; Software Engineer ; Austin, TX ; 2016-01-28 : now ; Technologies: Java, HTML, CSS, JS, Bash ; Methodologies: Waterfall, Scrum ; Products: Netbeans : Maven : Git : JUnit : Selenium : Linux CLI; OS: Windows : Linux : Mac OSX ; Maintained and enhanced proprietary electronic data management tool called Vision. Worked closely with product managers to program backend java code to gather data the client wanted to visualize. Implemented an archiving tool in Java to capture a flat file example of our application during runtime. Following user interaction the tool would capture the result of each cached request path, store it in an html representation, and bundle it with the necessary resources in a zip file in it's own thread. Increased the speed, performance, and robustness of testing suite by introducing embedded tomcat, overriding selenium/htmlunit drivers, adding 20% more tests, and refactoring entire suite. Created a series of bash script/cron jobs to monitor production servers. The scripts aggregated various linux, tomcat, java, and backup analytics in a json format. Setup multiple production linux servers running tomcat web applications from the ground up. ; Prelude Dynamics
 Break
-ChIJl7EOTIVgmUcRo8snIbZT9xE ; ChIJk_Qc34ZKW4YRdQVa0NC8VJU ; Software Developer ; Austin, TX ; 2014-09-15 : 2016-01-06 ; Technologies: Java, HTML, CSS, SQL ; Methodologies: Waterfall, Scrum ; Products: Eclipse : Mac Terminal : Linux Commands : SVN : VMWare ; OS: Mac OSX : Linux : Windows ; Employed on a team responsible for the migration of certain TxDMV systems from a legacy Mainframe environment to a Java web based environment. Worked on HTML/CSS development to style certain front facing aspects of TxDMV systems and on Java/JDBC development to help form a backend to assist with jobs that run in the batch/reporting environment. Designed and developed an application in Java that could connect to an SFTP or FTPS server, extract files from the server, parse the extracted files, validate data on the files, and upload changes to the files as well as create log files on the server. Was in charge of design and development for all batch printing related processes including titles, renewals, reports, and other TxDMV documents. Used CUPS (Common Unix Printing System) and the Java library Cups4j for printing development. ; innoWake
+ChIJl7EOTIVgmUcRo8snIbZT9xE ; ChIJk_Qc34ZKW4YRdQVa0NC8VJU ; Software Developer ; Austin, TX ; 2014-09-15 : 2016-01-06 ; Technologies: Java, HTML, CSS, SQL ; Methodologies: Waterfall, Scrum ; Products: Eclipse : Mac Terminal : Linux CLI : SVN : VMWare ; OS: Mac OSX : Linux : Windows ; Employed on a team responsible for the migration of certain TxDMV systems from a legacy Mainframe environment to a Java web based environment. Worked on HTML/CSS development to style certain front facing aspects of TxDMV systems and on Java/JDBC development to help form a backend to assist with jobs that run in the batch/reporting environment. Designed and developed an application in Java that could connect to an SFTP or FTPS server, extract files from the server, parse the extracted files, validate data on the files, and upload changes to the files as well as create log files on the server. Was in charge of design and development for all batch printing related processes including titles, renewals, reports, and other TxDMV documents. Used CUPS (Common Unix Printing System) and the Java library Cups4j for printing development. ; innoWake
 Break
 ChIJT2-SIDoMZ0gRC-TuNMtu9fo ; ChIJyQz78dfSwoARLwZbcljr_7Y ; Java Developer ; Norwalk, CA ; 2013-09-01 : 2014-08-01 ; Technologies: Java, JSP, SQL, HTML, XML ; Methodologies: Waterfall ; Products: Eclipse : SQL Dev. : LiveCycle : Visio ; OS: Windows ; Assisted with designing, analyzing, and developing of an improved Welfare system for LA County and the State of California. Worked as a member of the Correspondence team on the project, doing any Correspondence or Forms related framework, design, and implementation. This included designing interactive PDF forms, updating a Struts Framework to be compliant with a Spring Framework, modernizing a user interface with JSP, and creating scripts to store valid form information in a database. Used products such as Microsoft Visio for flow design, Adobe LiveCycle for form implementation, Axure for HTML mock up pages, Eclipse for Java/JSP/HTML development and SQL Developer for writing database queries and scripts. The system is called the LRS (LEADER Replacement System). ; Accenture
 Break
